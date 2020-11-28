@@ -1,2 +1,2 @@
-# 156_final_project
+# 156 Final Project
 NMF final project for UCLA Math 156
